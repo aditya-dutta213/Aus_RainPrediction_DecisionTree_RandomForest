@@ -14,6 +14,7 @@ The Jupyter Notebook details each step of the process, from data cleaning and pr
 
 - `AusRainPrediction_DecisionTree_RandomForest.ipynb`: Jupyter Notebook containing the code and explanations.
 - `README.md`: This guide explaining the project and its files.
+- 'Notebook PDF': PDF of Jupyter Notebook
 
 ## Dataset
 
